@@ -1,10 +1,7 @@
-##How to start
+## Getting Started
 
-`npm i`
-
-`wrangler preview`
-
-
+- Install dependencies: `npm i`
+- `wrangler preview`
 
 ## Router
 
